@@ -1,0 +1,36 @@
+Amount lines:		25
+rainAllDAy:		(0.56, 0.3333333333333333, 0.6666666666666666, 1.0, 0.3333333333333333, 14)
+snowAllDay		(0.0, 0.0, 0.0, 0.0, 0.0, 0)
+fogAllDAy:		(0.0, 0.0, 0.0, 0.0, 0.0, 0)
+clearAllDAy:		(0.0, 0.0, 0.0, 0.0, 0.0, 0)
+cloudyAllDay		(0.16, 0.0, 0.0, 0.0, 0.6666666666666666, 4)
+partallyCloudyAllDay	(0.24, 0.6666666666666666, 0.3333333333333333, 0.0, 0.0, 6)
+
+total all lines		0.9600000000000001
+total0-5		1.0
+total6-11		1.0
+total12-17		1.0
+total18-23		1.0
+totalcount		24
+
+
+GÜÜD ËVBËNEENG.
+
+The weather for 2023-04-30 for SY3 7AA, Shrewsbury, England, United Kingdom
+
+The weather will be changing. 
+There will be some clouds in the night. 
+There will be some clouds in the morning. 
+There will be some clouds in the evening. 
+It will be some raining in the night. 
+It will be partly raining in the morning. 
+It will be raining the whole afternoon. 
+It will be some raining in the evening. 
+
+
+The temperatures will be betwen 10 and 15 degrees celcius or between 50 and 59 degrees fahrenheit. 
+
+The wind between 6am and 8pm will be comming from averaged 191 degrees or south direction.
+
+The windspeed will be between 3 and 17 kilometers per hour or beween 1 and 10 miles per hour.
+

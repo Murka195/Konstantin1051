@@ -1,0 +1,34 @@
+Amount lines:		25
+rainAllDAy:		(0.44, 0.0, 0.0, 0.8333333333333334, 1.0, 11)
+snowAllDay		(0.0, 0.0, 0.0, 0.0, 0.0, 0)
+fogAllDAy:		(0.0, 0.0, 0.0, 0.0, 0.0, 0)
+clearAllDAy:		(0.0, 0.0, 0.0, 0.0, 0.0, 0)
+cloudyAllDay		(0.32, 0.8333333333333334, 0.5, 0.0, 0.0, 8)
+partallyCloudyAllDay	(0.2, 0.16666666666666666, 0.5, 0.16666666666666666, 0.0, 5)
+
+total all lines		0.96
+total0-5		1.0
+total6-11		1.0
+total12-17		1.0
+total18-23		1.0
+totalcount		24
+
+
+GÜÜD ËVBËNEENG.
+
+The weather for 2023-04-28 for 19122, Philadelphia, PA, United States
+
+The weather will be changing. 
+There will be some clouds in the night. 
+There will be some clouds in the morning. 
+There will be some clouds in the afternoon. 
+It will be raining the whole afternoon. 
+It will be raining the whole evening. 
+
+
+The temperatures will be betwen 9 and 12 degrees celcius or between 48 and 53 degrees fahrenheit. 
+
+The wind between 6am and 8pm will be comming from averaged 72 degrees or east direction.
+
+The windspeed will be between 9 and 26 kilometers per hour or beween 5 and 16 miles per hour.
+

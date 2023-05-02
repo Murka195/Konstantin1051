@@ -1,0 +1,34 @@
+Amount lines:		25
+rainAllDAy:		(0.4, 0.0, 0.0, 0.6666666666666666, 1.0, 10)
+snowAllDay		(0.0, 0.0, 0.0, 0.0, 0.0, 0)
+fogAllDAy:		(0.0, 0.0, 0.0, 0.0, 0.0, 0)
+clearAllDAy:		(0.0, 0.0, 0.0, 0.0, 0.0, 0)
+cloudyAllDay		(0.0, 0.0, 0.0, 0.0, 0.0, 0)
+partallyCloudyAllDay	(0.56, 1.0, 1.0, 0.3333333333333333, 0.0, 14)
+
+total all lines		0.9600000000000001
+total0-5		1.0
+total6-11		1.0
+total12-17		1.0
+total18-23		1.0
+totalcount		24
+
+
+GÜÜD ËVBËNEENG.
+
+The weather for 2023-04-29 for 34711, Clermont, FL, United States
+
+The weather will be changing. 
+There will be some clouds in the night. 
+There will be some clouds in the morning. 
+There will be some clouds in the afternoon. 
+It will be partly raining in the afternoon. 
+It will be raining the whole evening. 
+
+
+The temperatures will be betwen 20 and 31 degrees celcius or between 68 and 87 degrees fahrenheit. 
+
+The wind between 6am and 8pm will be comming from averaged 206 degrees or south direction.
+
+The windspeed will be between 5 and 29 kilometers per hour or beween 3 and 18 miles per hour.
+

@@ -1,0 +1,35 @@
+Amount lines:		25
+rainAllDAy:		(0.0, 0.0, 0.0, 0.0, 0.0, 0)
+snowAllDay		(0.0, 0.0, 0.0, 0.0, 0.0, 0)
+fogAllDAy:		(0.0, 0.0, 0.0, 0.0, 0.0, 0)
+clearAllDAy:		(0.28, 0.8333333333333334, 0.0, 0.0, 0.3333333333333333, 7)
+cloudyAllDay		(0.0, 0.0, 0.0, 0.0, 0.0, 0)
+partallyCloudyAllDay	(0.68, 0.16666666666666666, 1.0, 1.0, 0.6666666666666666, 17)
+
+total all lines		0.9600000000000001
+total0-5		1.0
+total6-11		1.0
+total12-17		1.0
+total18-23		1.0
+totalcount		24
+
+
+GÜÜD ËVBËNEENG.
+
+The weather for 2023-04-30 for 24944, Flensburg, Schleswig-Holstein, Deutschland
+
+The weather will be changing. 
+There will be some clouds in the night. 
+There will be some clouds in the morning. 
+There will be some clouds in the afternoon. 
+There will be some clouds in the evening. 
+It will be clear the whole night. 
+It will be some clear in the evening. 
+
+
+The temperatures will be betwen 1 and 10 degrees celcius or between 33 and 50 degrees fahrenheit. 
+
+The wind between 6am and 8pm will be comming from averaged 289 degrees or west direction.
+
+The windspeed will be between 2 and 14 kilometers per hour or beween 1 and 8 miles per hour.
+

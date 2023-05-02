@@ -1,0 +1,35 @@
+Amount lines:		25
+rainAllDAy:		(0.12, 0.5, 0.0, 0.0, 0.0, 3)
+snowAllDay		(0.0, 0.0, 0.0, 0.0, 0.0, 0)
+fogAllDAy:		(0.0, 0.0, 0.0, 0.0, 0.0, 0)
+clearAllDAy:		(0.08, 0.0, 0.3333333333333333, 0.0, 0.0, 2)
+cloudyAllDay		(0.24, 0.0, 0.0, 0.6666666666666666, 0.3333333333333333, 6)
+partallyCloudyAllDay	(0.52, 0.5, 0.6666666666666666, 0.3333333333333333, 0.6666666666666666, 13)
+
+total all lines		0.96
+total0-5		1.0
+total6-11		1.0
+total12-17		1.0
+total18-23		1.0
+totalcount		24
+
+
+Good Evening.
+
+The weather for 2023-05-01 for 19122, Philadelphia, PA, United States
+
+The weather will be changing. 
+There will be some clouds in the night. 
+There will be some clouds in the morning. 
+There will be some clouds in the afternoon. 
+There will be some clouds in the evening. 
+It will be some raining in the night. 
+It will be some clear in the morning. 
+
+
+The temperatures will be betwen 9 and 16 degrees celcius or between 48 and 60 degrees fahrenheit. 
+
+The wind between 6am and 8pm will be comming from averaged 237 degrees or west direction.
+
+The windspeed will be between 4 and 33 kilometers per hour or beween 2 and 20 miles per hour.
+
